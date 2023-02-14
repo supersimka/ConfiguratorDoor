@@ -1,0 +1,34 @@
+.door{
+  max-width:200px;
+  height:400px;
+  position: relative;
+}
+.param{
+  width:90px;
+  height:70px;
+  cursor:pointer;
+}
+.knob{
+  width:40px;
+  height:10px;
+  margin-top:200px;
+  position:absolute;
+}
+.knob.left{
+  left:5px;
+}
+.knob.right{
+  right:5px;
+}
+.relative{
+position: relative;
+}
+.microModal{
+  position:absolute;
+  border:1px solid #ccc;
+  left:0px;
+  max-width:460px;
+  max-height:460px;
+  background:#fff;
+  z-index:1000;
+}
