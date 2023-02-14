@@ -8,7 +8,7 @@ define('URL_ROOT', '/');
 define('URL_SUBFOLDER', '');
 
 //DB Params
-define('DB_HOST', 'localhost');
-define('DB_USER', 'root');
-define('DB_PASSWORD', 'root');
-define('DB_NAME', 'test');
+define('DB_HOST', '');
+define('DB_USER', '');
+define('DB_PASSWORD', '');
+define('DB_NAME', '');
