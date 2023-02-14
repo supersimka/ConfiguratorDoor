@@ -1,6 +1,6 @@
 {
-    "name": "gmaccario/simple-mvc-php-framework",
-    "description": "Simple MVC PHP framework",
+    "name": "supersimka/ConfiguratorDoor",
+    "description": "ConfiguratorDoor",
     "autoload": {
         "psr-4": {
             "App\\": "app/"
